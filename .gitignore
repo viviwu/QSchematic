@@ -4,6 +4,8 @@
 *-Debug
 build-*
 build/*
+.cache
+.Ds_Store
 
 qschematic/*.a
 qschematic/*.dll
